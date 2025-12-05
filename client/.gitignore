@@ -1,0 +1,30 @@
+# 🔑 FIREBASE SECRETS / ENVIRONMENT VARIABLES
+.env
+.env.local
+.env.*.local
+
+# 📦 DEPENDENCIES
+/node_modules
+/dist
+/dist-ssr
+*.local
+*.log
+.pnpm-store
+.eslintcache
+
+# 🛠 VITE & BUILD ARTIFACTS
+# The temporary directory Vite uses for development
+.vite
+
+# 💻 OPERATING SYSTEM & EDITOR
+.DS_Store
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# 🧪 TESTING
+/coverage
